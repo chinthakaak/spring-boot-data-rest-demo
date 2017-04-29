@@ -1,5 +1,6 @@
-package com.example.model;
+package com.example.respositories;
 
+import com.example.models.Person;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.data.rest.core.annotation.RepositoryRestResource;
 
